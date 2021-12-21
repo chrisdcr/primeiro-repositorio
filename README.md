@@ -1,2 +1,2 @@
-# Desafio proeto GitHub DIO Decola Tech
+# Desafio projeto GitHub DIO Decola Tech
 Primeiro repositório DIO
