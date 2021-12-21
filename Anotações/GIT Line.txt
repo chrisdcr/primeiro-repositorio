@@ -1,0 +1,4 @@
+git Status
+git add 
+git add -a
+git commit -m (para adicionar mensagem)
